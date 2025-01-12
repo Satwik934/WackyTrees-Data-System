@@ -71,7 +71,6 @@ get_character: Decodes a binary sequence into the corresponding ASCII character.
 free_tree: Frees memory associated with the binary tree.
 
 Project Structure:
-
 ├── wackman.c
 ├── wackman.h
 └── README.md
