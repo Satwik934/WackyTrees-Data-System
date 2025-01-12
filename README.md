@@ -62,6 +62,7 @@ This project, **Wacky Trees Data System**, is a compression system designed to o
    ./wackman
 
 Functions Overview
+
 compute_occurrence_array: Computes the frequency of ASCII characters in the input string.
 
 create_wacky_list: Builds a sorted linked list of ASCII characters and their probabilities.
