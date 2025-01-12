@@ -1,18 +1,3 @@
-/**
- * Assignment 1 - Wackman Compression
- *
- * Please read the comments below carefully, they describe your task in detail.
- *
- * There are also additional notes and clarifications on Quercus.
- *
- * Any clarifications and corrections will be posted to Piazza so please keep an
- * eye on the forum!
- *
- * Unauthorized distribution or posting is strictly prohibited. You must seek
- * approval from course staff before uploading and sharing with others.
- */
-
-// No additional imports are allowed. You can make helper functions if you wish.
 #include "wackman.h"
 
 /**
