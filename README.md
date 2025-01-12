@@ -71,8 +71,11 @@ get_character: Decodes a binary sequence into the corresponding ASCII character.
 free_tree: Frees memory associated with the binary tree.
 
 Project Structure:
-├── wackman.c
-├── wackman.h
-└── README.md
+├── wackman.c   # Main implementation file with core logic for linked lists and binary trees
+├── wackman.h   # Header file defining shared data structures and helper functions
+└── README.md   # Documentation file explaining the project, features, and usage
+
+This project uses: Data structures (linked lists and binary trees) and memory management in C
+
 
 This project uses: Data structures (linked lists and binary trees) and Memory management in C
