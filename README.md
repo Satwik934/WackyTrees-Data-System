@@ -62,20 +62,22 @@ This project, **Wacky Trees Data System**, is a compression system designed to o
    ./wackman
 
 Functions Overview
-
 compute_occurrence_array: Computes the frequency of ASCII characters in the input string.
+
 create_wacky_list: Builds a sorted linked list of ASCII characters and their probabilities.
+
 merge_wacky_list: Merges linked list nodes to create a binary tree for compression.
+
 get_wacky_code: Encodes an ASCII character into a binary sequence using the tree.
+
 get_character: Decodes a binary sequence into the corresponding ASCII character.
+
 free_tree: Frees memory associated with the binary tree.
 
 Project Structure:
+
 ├── wackman.c   # Main implementation file with core logic for linked lists and binary trees
 ├── wackman.h   # Header file defining shared data structures and helper functions
 └── README.md   # Documentation file explaining the project, features, and usage
 
 This project uses: Data structures (linked lists and binary trees) and memory management in C
-
-
-This project uses: Data structures (linked lists and binary trees) and Memory management in C
