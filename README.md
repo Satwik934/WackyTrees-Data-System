@@ -8,7 +8,6 @@ This project, **Wacky Trees Data System**, is a compression system designed to o
 
 - **Linked List Implementation**: Constructs a sorted linked list to store ASCII character probabilities in ascending order of occurrence frequency and value.
 - **Binary Tree Generation**: Merges nodes from the linked list to create a balanced binary tree, representing character weights and probabilities.
-- **Encoding and Decoding**: Provides functionality to encode characters into binary codes and decode binary sequences back into characters.
 - **Efficient Memory Management**: Ensures proper allocation and deallocation of memory for nodes in both the linked list and the binary tree.
 - **Tree Height Calculation**: Computes the height of the binary tree to determine its balance and depth.
 
